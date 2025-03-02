@@ -1,1 +1,61 @@
-a
+command
+sudo apt update
+sudo apt upgrade
+
+after download google chrome form website then terminal command
+		-> cd Download/
+		-> sudo dpkg -i google-chrome-stable_current_amd64.deb 
+
+
+gnome-tweaks install->  sudo apt install gnome-tweaks
+
+gnome shell extension manager install-> sudo apt install gnome-shell-extension-manager
+eita install korar por second ta install korar dorkar porbe na may be. 
+gnome shell extensions install-> sudo apt install gnome-shell-extensions
+
+vs code install first download from google website then terminal command
+		-> cd Download/
+		-> ls
+		-> sudo dpkg -i code_1.97.2-1739406807_amd64.deb 
+
+
+git install     -> sudo apt install git
+		-> git --version
+git configration just 2 command and check
+		git config --global user.email "developer.nahian@gmail.com"
+		git config --global user.name "developernahian"
+		git config --list
+		wq
+
+install curl -> sudo apt install curl
+node install -> curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash
+	     -> nvm install 22
+
+# Verify the Node.js version:
+node -v # Should print "v22.14.0".
+nvm current # Should print "v22.14.0".
+# Verify npm version:
+npm -v # Should print "10.9.2".
+
+
+
+doc icon click minimize and maximize
+Command line :
+To activate : gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'
+To deactivaate : gsettings reset org.gnome.shell.extensions.dash-to-dock click-action
+
+
+this command form telegram website and choice snap option to get command, ebabe install korle download kora lage na
+telegram install by snap -> sudo snap install telegram-desktop
+
+
+
+
+obs studio install by snap command -> sudo snap install obs-studio
+or App Center theke install.... same jinis
+
+
+
+ScreenShot best app "Flameshot" install->   sudo apt install flameshot
+
+
